@@ -2,8 +2,8 @@
 title: "Scaling Laws for Protein Folding under Confinement"
 collection: publications
 category: journal
-date: 2024-10-10
-permalink: /publication/2024-10-10-scaling-laws-protein-folding
+date: 2024-9-28
+permalink: /publication/2024-9-28-scaling-laws-protein-folding
 venue: "J. Phys. Chem. Lett. 2024, 15(40), 10138–10145"
 paperurl: "https://doi.org/10.1021/acs.jpclett.4c02098"
 #excerpt: 'This paper is about fixing template issue #693.'
