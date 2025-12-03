@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am a M2 student in [Chemistry & Life Sciences](https://www.chimie.ens.fr/formation/parcours-chimie-sdv/) at Université Paris Sciences et Lettres, and I'll graduate at summer 2026. 
 
-<span style="font-size: 1.2em; font-style: italic;">**I am currently looking for a funded PhD position starting 2026**</span>
+<span style="font-size: 1.2em; font-style: italic;">**I am currently looking for a funded PhD position starting 2026.**</span>
 
 <span style="font-size: 1.2em;">My research interests mainly evlove around 3 domians: <strong>Statistical Physics</strong>, <strong>Complex Networks</strong>, and <strong>Data-driven Modeling</strong>.</span>
 
