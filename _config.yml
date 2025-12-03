@@ -30,8 +30,8 @@ author:
   location         : "Paris, France"
   employer         : "PSL University"
   uri              : # URL
-  email            : "jiwei11wang@gmail.com"
-  email            : "jiwei.wang@etu.chimieparistech.psl.eu" 
+  email            : - "jiwei11wang@gmail.com"
+                     - "jiwei.wang@etu.chimieparistech.psl.eu"
 
   # Academic websites
   academia         : # URL
