@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 1.1em; font-style: italic;">I am currently looking for a funded PhD position starting 2026</span>
+<span style="font-size: 1.1em; font-style: italic;">**I am currently looking for a funded PhD position starting 2026**</span>
 
 Hi, I am a M2 student in [Chemistry & Life Sciences](https://www.chimie.ens.fr/formation/parcours-chimie-sdv/) at Université Paris Sciences et Lettres, and I'll graduate at summer 2026. 
 
