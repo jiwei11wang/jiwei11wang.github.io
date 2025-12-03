@@ -26,7 +26,11 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+          {% if page.collection == 'publications' %}
+            <h1 class="page__title" itemprop="headline">({{ page.date | default: "1900-01-01" | date: "%Y" }}) {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+          {% elsif page.title %}
+            <h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+          {% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
@@ -37,7 +41,6 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'publications' %}
-          <p class="pub-detail__title"><strong>({{ page.date | default: "1900-01-01" | date: "%Y" }}) {{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}</strong></p>
           {% if page.venue %}
             <p class="pub-detail__venue">{{ page.venue }}</p>
           {% endif %}
