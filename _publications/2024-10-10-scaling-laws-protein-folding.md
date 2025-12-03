@@ -1,7 +1,7 @@
 ---
 title: "Scaling Laws for Protein Folding under Confinement"
 collection: publications
-category: journal
+category: manuscripts
 date: 2024-9-28
 permalink: /publication/2024-9-28-scaling-laws-protein-folding
 venue: "J. Phys. Chem. Lett. 2024, 15(40), 10138–10145"
