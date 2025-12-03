@@ -36,9 +36,9 @@ Research Experience
 Publication
 ======
 * **Statistical Simplicity of Random Chemical Reaction Networks** _(In preparation)_  
-  - _**J. Wang**_, P. Gagrani, Y. De Decker and D. Lacoste
+  _**J. Wang**_, P. Gagrani, Y. De Decker and D. Lacoste
 * **Scaling Laws for Protein Folding under Confinement** ([J. Phys. Chem. Lett. 2024, 15, 40, 10138–10145](https://doi.org/10.1021/acs.jpclett.4c02098))  
-  - B. Zhu*, C. Zhang*, _**J. Wang**_, C. Jia, T. Lu, L. Dai and T. Chen (*Equal Contribution*)
+  B. Zhu*, C. Zhang*, _**J. Wang**_, C. Jia, T. Lu, L. Dai and T. Chen (*Equal Contribution*)
 
 Skills
 ======
