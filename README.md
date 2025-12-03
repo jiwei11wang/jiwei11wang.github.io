@@ -21,6 +21,20 @@ When you are initially working on your website, it is very useful to be able to 
 
 1. Clone the repository and made updates as detailed above.
 
+## 将更新后的 CV 内容发布到线上页面
+
+如果已经按照 `_pages/cv.md` 中的最新内容更新了简历页面，按照以下步骤将其应用到你的网站：
+
+1. 在本地查看效果（可选）：
+   - 确保依赖已安装（参见下文的“Using a different IDE”部分）。
+   - 运行 `jekyll serve -l -H localhost`（或 `bundle exec jekyll serve -l -H localhost`）并在浏览器打开 <http://localhost:4000/cv/> 预览页面。
+2. 将修改推送到 GitHub：
+   - 在项目根目录执行 `git status` 确认只包含期望的改动。
+   - 使用 `git commit` 提交后，运行 `git push` 将更新推送到远程仓库。
+3. 等待 GitHub Pages 自动重新部署：
+   - 仓库的 Pages 工作流会自动重新构建站点，几分钟后访问你的站点（通常为 `https://[你的 GitHub 用户名].github.io/cv/`）即可看到更新后的 CV 页面。
+
+
 ### Using a different IDE
 1. Make sure you have ruby-dev, bundler, and nodejs installed
     
