@@ -31,7 +31,7 @@ Research Experience
   - Collaborated with [P. Gagrani](https://scholar.google.com/citations?hl=en&user=apGl8RAAAAAJ&view_op=list_works&sortby=pubdate) and [Y. De Decker](https://nlpc.ulb.be/dedecker.html); theoretically generalize topological parameters derived from network structures into intrinsic bounds on the dynamical growth rates of random CRNs with realistic kinetics by adapting von-Neumann growth model from economics, and verify results with numerical simulation.
 * **Intern, Molecular Simulation Group, Northwest University, Xi'an, China** _(Oct 2023 - Jun 2024)_  
   - _**Scaling Laws for Protein Folding under Confinement**_ (Supervisor: [Tao CHEN](https://www.researchgate.net/scientific-contributions/Tao-Chen-82541369))  
-  - Collaborated with [B. Zhu](https://www.x-mol.com/groups/chen_xiangyang/people/88865); conducted theoretical analysis and computational simulation with Langevin dynamics of coarse-grained protein models. Paper published (responsible for theoretical calculation and analysis of conformation entropy, bridging the relationship between scaling exponents and non-local contacts).
+  - Collaborated with [B. Zhu](https://www.x-mol.com/groups/chen_xiangyang/people/88865); conducted theoretical analysis and computational simulation with Langevin dynamics of coarse-grained protein models. Paper published.
 
 Publication
 ======
