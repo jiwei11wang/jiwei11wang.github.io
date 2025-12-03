@@ -1,5 +1,5 @@
 ---
-title: "Scaling Laws for Protein Folding under Confinement"
+title: "(2024) Scaling Laws for Protein Folding under Confinement"
 collection: publications
 category: manuscripts
 date: 2024-10-10
