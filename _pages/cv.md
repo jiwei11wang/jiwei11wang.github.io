@@ -23,7 +23,7 @@ Education
 
 Research Experience
 ======
-* **Intern, Theoretical and Scientific Data Science Group, SISSA, Trieste, Italy** _((Upcoming) Jan 2026 - Aug 2026)_  
+* **Intern, Theoretical Neuroscience Unit, Theoretical and Scientific Data Science Group, SISSA, Trieste, Italy** _((Upcoming) Jan 2026 - Aug 2026)_  
   - _**The Dynamical Regime of Multi-area Brain Circuits**_ (Supervisor: [Francesca MASTROGIUSEPPE](https://fmastrogiuseppe.github.io/))  
   - Study the impact of introducing random inter-areal connections on the dynamical regimes with multi-area recurrent neural network models.
 * **Intern, Gulliver Laboratory, ESPCI - PSL, Paris, France** _(Feb 2025 - Aug 2025)_  
